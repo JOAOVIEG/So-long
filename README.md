@@ -6,6 +6,7 @@ cd so_long
 cd minishell
 make && ./so_long maps/valid/map1.ber
 ```
+Use W, A, S, D for Player movement.
 
 You can try different maps!
 ![so_long_pic](so_long_pic.png)
